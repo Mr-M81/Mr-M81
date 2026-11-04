@@ -15,7 +15,7 @@ I'm an aspiring **Software Engineer** dedicated to building scalable, secure, an
 
 ### 🎓 Road to Certification
 I am currently upskilling to validate my expertise through global standards:
-- ☁️ **AWS Certified Developer – Associate** `[▓▓▓▓▓▓░░░░░░] 50% - Target: 2026`
+- ☁️ **AWS Certified Developer – Associate** `[▓▓▓▓▓▓▓▓] 100% - Complete`
 - 🏆 **HackerRank Software Engineer Intern/Associate**
   `[▓▓▓▓▓▓▓▓▓░░░] 75% - Final Prep`
 
